@@ -90,7 +90,8 @@ Bulk and live-session contribution flows with campaign management tools.
 
 - GitHub: https://github.com/gichigig  
 - LinkedIn: https://www.linkedin.com/in/bildad-mwangi/  
-- Email: ngangabildad@gmail.com  
+- Email: ngangabildad@gmail.com
+- website: https://bluvberry.tech
 
 ---
 
