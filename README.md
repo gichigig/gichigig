@@ -22,6 +22,7 @@ I build mobile and web systems with:
 ### Languages
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
@@ -75,6 +76,12 @@ Collector workflows for milk-record capture and automated farmer SMS notificatio
 ### ⛪ Church Contribution System
 Web Dashboard + M-Pesa STK Push  
 Bulk and live-session contribution flows with campaign management tools.
+
+---
+
+### 📱 KMP Multiplatform Solutions
+Kotlin Multiplatform + Ktor + SQLDelight  
+Shared business logic across iOS and Android with native UI implementations, enabling code reuse and consistent functionality.
 
 ---
 
