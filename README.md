@@ -13,7 +13,7 @@ I build mobile and web systems with:
 - Authentication flows (Passkeys, OAuth, 2FA)
 - Real-time communication features
 
-Based in Nairobi, Kenya 🇰🇪
+
 
 ---
 
